@@ -1,0 +1,40 @@
+// Register
+
+"Response": {
+    "status": 201,
+    "message": {
+        "detail": "Verification e-mail sent."
+    }
+}
+
+// Login
+"Response": {
+    "status": 200,
+    "message": {
+        "key": "0d0dfd787d38c4c83466123569b0cc7633c52af7"
+    }
+}
+
+// Logout
+"Response": {
+    "status": 200,
+    "message": "Successful disconnection"
+}
+
+// change password
+"Response": {
+    "status": 200,
+    "message": {
+        "detail": "New password has been saved."
+    }
+}
+
+// Password reset
+"Response": {
+    "status": 200,
+    "message": {
+        "detail": "Password reset e-mail has been sent."
+    }
+}
+
+
